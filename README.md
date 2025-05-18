@@ -18,7 +18,7 @@ The data was collected using a real-time indoor testbed consisting of five Wi-Fi
   - Bitrate
   - Jitter
   - Duration
-- Files are named to indicate the sender and receiver nodes (e.g., `link_0_1.csv`).
+- Files are named to indicate the sender and receiver nodes (e.g., `s0_s1.csv`).
 
 ## 📜 License
 
